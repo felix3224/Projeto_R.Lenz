@@ -4,9 +4,9 @@
             const correctAnswers = {
                 q1: 'a', // Ricardo Lenz Cesar
                 q2: 'd', // Linux
-                q3: 'a', // Português, inglês e um pouco de alemão
+                q3: 'd', // Português, inglês e um pouco de alemão
                 q4: 'b', // Zelda
-                q5: 'a', //  mais um ano
+                q5: 'c', //  mais um ano
                 q6: 'a', // Preto
                 q7: 'a', // Ubuntu
                 q8: 'c', // Nintendo
